@@ -42,3 +42,11 @@ Optimization algorithm to solve functions with more than one independent variabl
 # Newton Raphson
 
 Optimization algorithm to solve functions with a single independent variable
+
+# Derivative
+
+Calculate numerically the derivative of any given function
+
+# Initial-value problems
+
+Euler method, that solves differential equations with initial values
